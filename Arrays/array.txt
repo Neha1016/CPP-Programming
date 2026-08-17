@@ -1,0 +1,24 @@
+
+An array is a collention of multiple values of the same data type stored under one variable name. 
+
+for example, instead of :
+
+int marks1 = 80 ;
+int marks2 = 79;
+int marks3 = 75;
+
+we can use :
+
+int marks[3] = {80, 79, 75};
+
+1 Array Declaration
+
+data_type array_name[size];
+
+example :
+
+int numbers[5];
+
+this create an array that can store 5 integers. 
+
+
